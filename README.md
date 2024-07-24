@@ -17,22 +17,30 @@ Please find the dashboard from Tableau Public **here**. This dashboard allows us
 - Click: action taken by a user to select or activate a link, button or advertisement within an application
 - Impression: indicator that an advertisement has been served as is visible to a user
 
-## Overview of Insights
+## Overview Marketing Metrics
 
 The overall campaigns effort faired well with an average click through rate of 10% and an average cost per click of $0.07. There are some notable campaigns that can be improved upon. The Golden Years Security Campaign had CTR of just 1.41% and the Family Coverage Plan campaign had over 1.1M impressions and no clicks.
 Campaigns that did well include Health for All which had a low CPC ($0.10) and a high CTR at 25%. Additoilly the Benefit Updates campaign had a low CPC at $0.04 and a high CTR at 22.17%.
 
 The overall campaign performance was strong, achieving an average click-through rate (CTR) of 10% and an average cost per click (CPC) of $0.07.
 
-Certain campaigns show potential for improvement. 
+**Certain campaigns show potential for improvement:**
 - Golden Years Security Campaign had a CTR of only 1.41%,
 - Family Coverage Plan campaign received over 1.1 million impressions but did not generate any clicks.
-Successful campaigns include:
 
+**Successful campaigns include:**
 - Health for All, which achieved a low CPC of $0.10 and a high CTR of 25%.
 - The Benefit Updates campaign, which had a low CPC of $0.04 and an impressive CTR of 22.17%.
 
 These insights highlight areas where adjustments can be made to optimize performance and capitalize on successful campaign strategies.
+
+## Overview of Singup and Claim Metrics
+
+By looking at Claim Dollar Amount over time, we see that Glucose Monitoring generated the most amount of claims. In March of 2021 it peaked with a total dollar amount of $142K/ This amount subtly dipped with a total claim amount of 104K by May 2023.
+Conversly, Dialysis Treatment sharply increased, ranging from 142K and 150K between March and July 2022. By May 2023 claim amount dove deeply to $84K.
+
+Regarding signup rate, we see that the #Coverage Matters campaign generated the highest signup rate with a peek in April of 2020 at .6%.  Other canotable campaigns that had max signup rates in 2020 as well (Health For All .3% and #HealthyLiving .4%) remained above .1% signup rate between 2019 - 2023 except where they peaked in April of 2020.
+Campaigns that Pinnacle Health Insurance can alter and enhance to gain better awareness include Golden YEars, Family Covered Care, and #InsureYourHealth. These campaigns had a asignup raight of under.1% between 2019 and 2023. 
 
 ## Recommendations and Actionable Steps
 
