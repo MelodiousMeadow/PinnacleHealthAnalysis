@@ -20,7 +20,7 @@ Please find the dashboard from Tableau Public **here**. This dashboard allows us
 ## Overview Marketing Metrics
 
 The overall campaigns effort faired well with an average click through rate of 10% and an average cost per click of $0.07. There are some notable campaigns that can be improved upon. The Golden Years Security Campaign had CTR of just 1.41% and the Family Coverage Plan campaign had over 1.1M impressions and no clicks.
-Campaigns that did well include Health for All which had a low CPC ($0.10) and a high CTR at 25%. Additoilly the Benefit Updates campaign had a low CPC at $0.04 and a high CTR at 22.17%.
+Campaigns that did well include Health for All which had a low CPC ($0.10) and a high CTR at 25%. Additionally the Benefit Updates campaign had a low CPC at $0.04 and a high CTR at 22.17%.
 
 The overall campaign performance was strong, achieving an average click-through rate (CTR) of 10% and an average cost per click (CPC) of $0.07.
 
