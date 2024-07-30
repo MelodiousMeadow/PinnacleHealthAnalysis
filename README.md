@@ -36,7 +36,7 @@ These insights highlight areas where adjustments can be made to optimize perform
 
 ## Overview of Singup and Claim Metrics
 
-By looking at Claim Dollar Amount over time, we see that Glucose Monitoring generated the most amount of claims. In March of 2021 it peaked with a total dollar amount of $142K/ This amount subtly dipped with a total claim amount of 104K by May 2023.
+By looking at Claim Dollar Amount over time, we see that Glucose Monitoring generated the most amount of claims. In March of 2021 it peaked with a total dollar amount of $142K. This amount subtly dipped with a total claim amount of 104K by May 2023.
 Conversly, Dialysis Treatment sharply increased, ranging from 142K and 150K between March and July 2022. By May 2023 claim amount dove deeply to $84K.
 
 We see that the #Coverage Matters campaign generated the highest signup rate with a peek in April of 2020 at .6%.  Other notable campaigns that had max signup rates in April of 2020 as well were Health For All (.3%) and #HealthyLiving (.4%). From 2019-2023 these campaigns remained above .1% signup rate.
