@@ -1,6 +1,6 @@
 # Pinnacle Health Analysis
 
-**_The objective of this project is to assess how well marketing campaigns perform at Pinnacle Health Insurance, with the intent of creating data-driven recommendations for allocating marketing budgets across various campaign categories in the future._**
+**_This project sets out to unravel the true impact of marketing campaigns at sample company Pinnacle Health Insurance. By diving deep into the performance metrics, Pinnacle Health will craft insightful, data-driven recommendations that will strategically guide future marketing budget allocations across diverse campaign categories._**
 
 **Pinnacle Health's Story**: Pinnacle Health Insurance, established in 2016, provides medical insurance to thousands of customers across the United States. Since 2019, the company has launched innovative marketing campaigns focusing on health tips, affordability of plans, and preventative care. The company offers four distinct plans (bronze, silver, gold, platinum), each with varying premium rates and levels of claim coverage.
 
@@ -8,7 +8,7 @@ Pinnacle Health Insurance intends to evaluate the impact of their campaigns by a
   
 ## Dashboard
 
-Please find the dashboard from Tableau Public **here**. This dashboard allows users to examine trends and values regarding marketing, signup and claim metrics over time.
+Please find the complete dashboard from Tableau Public **here**. This dashboard allows users to examine trends and values regarding marketing, signup and claim metrics over time.
 
 **The key metrics we used to look at campaign performance were:**
 - Signup Rate: Percentage of users who complete the registration process after clicking through a landing page
@@ -39,8 +39,8 @@ These insights highlight areas where adjustments can be made to optimize perform
 By looking at Claim Dollar Amount over time, we see that Glucose Monitoring generated the most amount of claims. In March of 2021 it peaked with a total dollar amount of $142K/ This amount subtly dipped with a total claim amount of 104K by May 2023.
 Conversly, Dialysis Treatment sharply increased, ranging from 142K and 150K between March and July 2022. By May 2023 claim amount dove deeply to $84K.
 
-Regarding signup rate, we see that the #Coverage Matters campaign generated the highest signup rate with a peek in April of 2020 at .6%.  Other canotable campaigns that had max signup rates in 2020 as well (Health For All .3% and #HealthyLiving .4%) remained above .1% signup rate between 2019 - 2023 except where they peaked in April of 2020.
-Campaigns that Pinnacle Health Insurance can alter and enhance to gain better awareness include Golden YEars, Family Covered Care, and #InsureYourHealth. These campaigns had a asignup raight of under.1% between 2019 and 2023. 
+We see that the #Coverage Matters campaign generated the highest signup rate with a peek in April of 2020 at .6%.  Other notable campaigns that had max signup rates in April of 2020 as well were Health For All (.3%) and #HealthyLiving (.4%). From 2019-2023 these campaigns remained above .1% signup rate.
+Campaigns that Pinnacle Health Insurance can alter and enhance to gain better awareness include Golden Years, Family Covered Care, and #InsureYourHealth. These campaigns had a asignup raight of under.1% between 2019 and 2023. 
 
 ## Recommendations and Actionable Steps
 
