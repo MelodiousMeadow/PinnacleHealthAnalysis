@@ -12,12 +12,13 @@ Pinnacle Health Insurance intends to evaluate the impact of their campaigns by a
 
 Please find the complete dashboard from Tableau Public [here](https://public.tableau.com/app/profile/z.w8482/viz/PinnacleHealthInsurance/SignupClaimDashboard). This dashboard allows users to examine trends and values regarding marketing, signup and claim metrics over time.
 
-**The key metrics we used to look at campaign performance were:**
-- Signup Rate: Percentage of users who complete the registration process after clicking through a landing page
-- Click Through Rate (CTR): ratio of users who click on a specific link/advertisement to the number of total users who viewed that page
-- Cost per Click (CPC): the amount an advertiser pays each time a user clicks on their advertisement
-- Click: action taken by a user to select or activate a link, button or advertisement within an application
-- Impression: indicator that an advertisement has been served as is visible to a user
+## Key Metrics
+
+- **Signup Rate:** Percentage of users who complete the registration process after clicking through a landing page
+- **Click Through Rate (CTR):** ratio of users who click on a specific link/advertisement to the number of total users who viewed that page
+- **Cost per Click (CPC):** the amount an advertiser pays each time a user clicks on their advertisement
+- **Click:** action taken by a user to select or activate a link, button or advertisement within an application
+- **Impression:** indicator that an advertisement has been served as is visible to a user
 
 ## Overview Marketing Metrics
 
