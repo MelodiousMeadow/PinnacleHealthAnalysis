@@ -8,7 +8,9 @@ Pinnacle Health Insurance intends to evaluate the impact of their campaigns by a
   
 ## Dashboard
 
-Please find the complete dashboard from Tableau Public **here**. This dashboard allows users to examine trends and values regarding marketing, signup and claim metrics over time.
+![marketing_image](images/pinnacle_marketing.png)
+
+Please find the complete dashboard from Tableau Public [here](https://public.tableau.com/app/profile/z.w8482/viz/PinnacleHealthInsurance/SignupClaimDashboard). This dashboard allows users to examine trends and values regarding marketing, signup and claim metrics over time.
 
 **The key metrics we used to look at campaign performance were:**
 - Signup Rate: Percentage of users who complete the registration process after clicking through a landing page
