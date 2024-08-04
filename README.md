@@ -38,11 +38,9 @@ These insights highlight areas where adjustments can be made to optimize perform
 
 ## Overview of Singup and Claim Metrics
 
-By looking at Claim Dollar Amount over time, we see that Glucose Monitoring generated the most amount of claims. In July of 2021 it peaked with a total dollar amount of $142K. This amount subtly dipped with a total claim amount of 104K by May 2023.
-The Dialysis Treatment claim amount sharply increased, ranging from 142K and 150K between March and July 2022. By May 2023 the amount dove deeply to $84K.
+From 2019 to 2023, claims analysis revealed that chemotherapy had an average claim amount of $2,040, while glucose monitoring accumulated a total claim amount of $5,179,846. Glucose monitoring consistently had the highest percentage of claims, with a peak of 60% in December 2019. Dialysis treatment claims saw a significant increase starting in March 2020, reaching 48% of total claims by July 2022, likely due to the impact of COVID-19 on high-risk patients.
 
-We see that the #Coverage Matters campaign generated the highest signup rate with a peek in April of 2020 at .6%.  Other notable campaigns that had max signup rates in April of 2020 as well were Health For All (.3%) and #HealthyLiving (.4%). From 2019-2023 these campaigns remained above .1% signup rate.
-Campaigns that Pinnacle Health Insurance can alter and enhance to gain better awareness include Golden Years, Family Covered Care, and #InsureYourHealth. These campaigns had a asignup raight of under.1% between 2019 and 2023. 
+In terms of signups, the #CoverageMatters campaign accounted for 33% of signups in November 2019. The #HealthyLiving campaign saw nearly 40% of signups in November 2022, and #HealthyForAll represented 33% of signups in May 2019. Overall, these campaigns collectively accounted for 15-40% of signups between 2019 and 2023. In contrast, campaigns such as Golden Years Security and Summer Wellness Tips garnered under 5% of signups during the same period.
 
 ## Recommendations and Actionable Steps
 
@@ -52,6 +50,7 @@ Based on the Pinnacle Health Analysis, several key strategies can enhance market
 
 - **Revise Messaging and Targeting:** Evaluate the effectiveness of messaging and targeting strategies for campaigns with low engagement. Implement A/B testing to determine more effective approaches.
 - **Enhance Ad Content and Placement:** Reassess and improve the content and placement of ads that generate high impressions but low engagement. Strengthen calls-to-action to drive better user interaction.
+- **Nix Underperforming Campaigns:** Discontinue campaigns that consistently achieve under 5% of signups to focus resources on more effective strategies.
 
 **Leverage Successful Strategies:**
 
