@@ -10,7 +10,7 @@ Pinnacle Health Insurance intends to evaluate the impact of their campaigns by a
 
 ![marketing_image](images/Marketing.png)
 
-![marketing_image](images/ClaimSignup.png)
+![marketing_image](images/ClaimSignup.png) 
 
 Please find the complete Tableau Story [here](https://public.tableau.com/app/profile/z.w8482/viz/PinnacleHealthInsurance/PinnacleHealthInsights). These dashboards allows users to examine trends and values regarding marketing, signup and claim metrics over time.
 
