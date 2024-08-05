@@ -6,13 +6,17 @@
 
 Pinnacle Health Insurance intends to evaluate the impact of their campaigns by analyzing North Star Metrics such as Click-Through Rate, Cost Per Click, impressions, and clicks. Through this analysis, Pinnacle Health aims to make informed, data-driven decisions regarding their marketing strategies. This process will enable the insurance company to pinpoint successful campaign elements, optimize budget allocation, fine-tune targeting strategies, and adjust offerings to better meet the needs of their customers. Ultimately, leveraging these insights enhances campaign effectiveness, boosts customer engagement, and fosters business growth for Pinnacle Health Insurance.
   
-## Dashboard
+## Dashboards
 
 ![marketing_image](images/Marketing.png)
 
-![marketing_image](images/ClaimSignup.png) 
+You can accerss the [Marketing Dashboard here](https://public.tableau.com/authoring/PinnacleHealthInsurance/MarketingDashboard2#1) 
 
-Please find the complete Tableau Story [here](https://public.tableau.com/app/profile/z.w8482/viz/PinnacleHealthInsurance/PinnacleHealthInsights). These dashboards allows users to examine trends and values regarding marketing, signup and claim metrics over time.
+![marketing_image](images/ClaimSignup1.png) 
+
+You can access the [Signups/Claims Dashboard here](https://public.tableau.com/authoring/PinnacleHealthInsurance/SignupClaimDashboard2#1) 
+
+_Please take note that these dashboards are optimized for desktop viewing._
 
 ## Key Metrics
 
