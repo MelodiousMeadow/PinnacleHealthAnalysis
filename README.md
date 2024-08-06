@@ -40,11 +40,21 @@ The campaign performance was strong, achieving an average click-through rate (CT
 
 These insights highlight areas where adjustments can be made to optimize performance and capitalize on successful campaign strategies.
 
-## Overview of Singup and Claim Metrics
+## Overview of Signup and Claim Metrics
 
-From 2019 to 2023, claims analysis revealed that chemotherapy had an average claim amount of $2,040, while glucose monitoring accumulated a total claim amount of $5,179,846. Glucose monitoring consistently had the highest percentage of claims, with a peak of 60% in December 2019. Dialysis treatment claims saw a significant increase starting in March 2020, reaching 48% of total claims by July 2022, likely due to the impact of COVID-19 on high-risk patients.
+**Claims Analysis:**
 
-In terms of signups, the #CoverageMatters campaign accounted for 33% of signups in November 2019. The #HealthyLiving campaign saw nearly 40% of signups in November 2022, and #HealthyForAll represented 33% of signups in May 2019. Overall, these campaigns collectively accounted for 15-40% of signups between 2019 and 2023. In contrast, campaigns such as Golden Years Security and Summer Wellness Tips garnered under 5% of signups during the same period.
+- Chemotherapy: Average claim amount of $2,040.
+- Glucose Monitoring: Total claim amount of $5,179,846; highest percentage of claims, peaking at 60% in December 2019.
+- Dialysis Treatment: Significant increase starting March 2020, reaching 48% of total claims by July 2022, likely due to COVID-19 impacts on high-risk patients.
+
+**Signup Analysis:**
+
+- #CoverageMatters Campaign: 33% of signups in November 2019.
+- #HealthyLiving Campaign: Nearly 40% of signups in November 2022.
+- Health For All Campaign: 33% of signups in May 2019.
+- Overall Campaign Impact: 15-40% of signups from 2019 to 2023.
+- Low-Performing Campaigns: Golden Years Security and Summer Wellness Tips, each under 5% of signups.
 
 ## Recommendations and Actionable Steps
 
