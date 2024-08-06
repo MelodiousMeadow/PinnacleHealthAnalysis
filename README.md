@@ -1,6 +1,6 @@
 # Pinnacle Health Analysis
 
-**_This project sets out to unravel the true impact of marketing campaigns at sample company Pinnacle Health Insurance. By diving deep into the performance metrics, Pinnacle Health will craft insightful, data-driven recommendations that will strategically guide future marketing budget allocations across diverse campaign categories._**
+**_This project sets out to unravel the true impact of marketing campaigns at medical care company Pinnacle Health Insurance. By diving deep into the performance metrics, Pinnacle Health will craft insightful, data-driven recommendations that will strategically guide future marketing budget allocations across diverse campaign categories._**
 
 **Pinnacle Health's Story**: Pinnacle Health Insurance, established in 2016, provides medical insurance to thousands of customers across the United States. Since 2019, the company has launched innovative marketing campaigns focusing on health tips, affordability of plans, and preventative care. The company offers four distinct plans (bronze, silver, gold, platinum), each with varying premium rates and levels of claim coverage.
 
