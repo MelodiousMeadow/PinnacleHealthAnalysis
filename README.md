@@ -10,7 +10,7 @@ Pinnacle Health Insurance intends to evaluate the impact of their campaigns by a
 
 ![marketing_image](images/Marketing.png)
 
-You can accerss the [Marketing Dashboard here](https://public.tableau.com/authoring/PinnacleHealthInsurance/MarketingDashboard2#1) 
+You can access the [Marketing Dashboard here](https://public.tableau.com/authoring/PinnacleHealthInsurance/MarketingDashboard2#1) 
 
 ![marketing_image](images/claim_signup2.png) 
 
