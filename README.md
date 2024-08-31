@@ -42,19 +42,40 @@ These insights highlight areas where adjustments can be made to optimize perform
 
 ## Overview of Signup and Claim Metrics
 
-**Claims Analysis:**
+**Top Claims:**
 
-- Chemotherapy: Average claim amount of $2,040.
-- Glucose Monitoring: Total claim amount of $5,179,846; highest percentage of claims, peaking at 60% in December 2019.
-- Dialysis Treatment: Significant increase starting March 2020, reaching 48% of total claims by July 2022, likely due to COVID-19 impacts on high-risk patients.
+**Glucose Monitoring:** Claims rose from $60,000 in January 2020 to $143,000 by July 2021, stabilizing afterward. Indicates growing demand or increased coverage.
+**Dialysis Treatment**: Claims surged from $75,000 in July 2021 to $156,000 by July 2022, then dropped sharply, reflecting high variability.
+**Radiation Therapy:** Claims remained under $50,000 per month; mental health counseling claims were notably low, under $15,000, suggesting limited uptake.
 
-**Signup Analysis:**
+**Top Campaigns:**
 
-- #CoverageMatters Campaign: 33% of signups in November 2019.
-- #HealthyLiving Campaign: Nearly 40% of signups in November 2022.
-- Health For All Campaign: 33% of signups in May 2019.
-- Overall Campaign Impact: 15-40% of signups from 2019 to 2023.
-- Low-Performing Campaigns: Golden Years Security and Summer Wellness Tips, each under 5% of signups.
+**#Healthy Living:** 3,727 signups
+**Health For All:** 3,545 signups
+**#Coverage Matters:** 3,536 signups
+**Compare Health Coverage:** 2,820 signups
+**Tailored Health Plans:** 1,107 signups
+
+**Campaign and Performance Over Time:**
+
+**#Healthy Living and #Coverage Matters:** Peaked in April 2020 with 168 signups each, then declined.
+**Compare Health Coverage:** Peaked in May 2021 with 128 signups, following a spike in April 2020, then declined.
+**Tailored Health Plans:** Consistently had 60 or fewer signups, indicating lower engagement.
+
+**Less Successful Campaigns:**
+
+**Affordable Plans:** 63 signups
+**Benefit Updates:** 45 signups
+**Golden Years Security:** 23 signups
+
+**Conclusion:**
+
+The COVID-19 pandemic significantly impacted claims and signups:
+
+**Claims:** Increased for glucose monitoring and dialysis treatment, likely due to heightened focus on chronic conditions and treatment disruptions.
+**Signups:** Notable peaks in April 2020 during heightened health awareness; initial spikes in campaigns like "#Healthy Living" and "#Coverage Matters" reflect increased public interest in health management.
+
+Overall, the data indicates that while initial engagement surged during the pandemic, it has since stabilized, highlighting the need for adaptive strategies to maintain relevance and effectiveness in evolving circumstances.
 
 ## Recommendations and Actionable Steps
 
