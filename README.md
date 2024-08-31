@@ -14,7 +14,7 @@ You can access the [Marketing Dashboard here](https://public.tableau.com/authori
 
 ![marketing_image](images/claim_signup2.png) 
 
-You can access the [Signups/Claims Dashboard here](https://public.tableau.com/authoring/PinnacleHealthInsurance/SignupClaimDashboard2#1) 
+You can access the [Signups/Claims Dashboard here](https://public.tableau.com/authoring/PinnacleHealthInsurance/SignupClaimDashboard3#1)
 
 _Please take note that these dashboards are optimized for desktop viewing._
 
