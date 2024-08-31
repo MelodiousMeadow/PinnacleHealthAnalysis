@@ -8,7 +8,7 @@ Pinnacle Health Insurance intends to evaluate the impact of their campaigns by a
   
 ## Dashboards
 
-![marketing_image](images/Marketing.png)
+![marketing_image](images/MarketingDashboard2.png)
 
 You can access the [Marketing Dashboard here](https://public.tableau.com/authoring/PinnacleHealthInsurance/MarketingDashboard2#1) 
 
